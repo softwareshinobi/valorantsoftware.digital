@@ -24,14 +24,7 @@ Official Facebook Ads Manager
 
 ## Creating Book Cover / Canva
 
-
-<a
-
-href="https://www.youtube.com/watch?v=7grq8ecq3ws"> 
-
-YouTube
-
-</a>
+<a href="https://www.youtube.com/watch?v=7grq8ecq3ws"> YouTube Video </a>
 
 ## online timers and portals
 
