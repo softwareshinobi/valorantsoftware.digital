@@ -33,3 +33,14 @@ YouTube
 
 </a>
 
+## online timers and portals
+
+http://pandora.shinobinet.online/
+
+## gemini
+
+https://gemini.google.com/u/1/app/17c6032bdeb0062b
+
+## fb ad roas calculator
+
+https://softwareshinobi.github.io/digital-marketing-calculators/
