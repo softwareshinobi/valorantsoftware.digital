@@ -109,9 +109,7 @@ Think of it like this: by offering affordable entry points (Meet & Greet, hourly
 
 **This is the Guardian Angel way, the Boss way. It's about building a sustainable business that prioritizes client satisfaction and long-term success. Stay tuned, because this is just the first chapter.**
 
-##
-
-Landing Page 2: Guardian Angel Services - Emotion & Peace of Mind (PAS Approach)
+## Landing Page / Guardian Angel Services - Emotion & Peace of Mind (PAS Approach)
 
 Hero Section:
 
@@ -156,4 +154,159 @@ Additional Information:
 
 These are just two initial concepts for your Guardian Angel Services landing page. Remember to customize them with your own branding, voice, and target audience in mind. By effectively combining logic and emotion, you can create compelling landing pages that convert visitors into loyal clients.
 
-##
+### comments
+
+i dont like it, but i think it's fine on it's own. i'm going to seperate and .
+
+this is designed to appeal to emotions. and thus is opened using the PAS marketing framework thing.
+
+PAS. problem, agitation, solution.
+
+i should have done an outcome. but maybe next.
+
+so i've got this landing page that i dont like. it gets linked to from fb ads. so let's talk about the target demo.
+
+## Target Demo Of Ads (English Speaking Women In My City)
+
+So i charge them SEEMINGLY the same price as the primary group. but there is anoter offer that group 1 gets for free, but group two pays a 50% surchage for.
+
+see above about sex work and other.
+
+
+This is the FB ad setup.
+
+## FB ads setup
+
+here's the rundown for your Facebook Ad campaign targeting fly queens in Santa Marta:
+
+**Targeting:**
+
+* **Location:** Santa Marta, Colombia (City Limits)
+
+* **Demographics:**
+    * Gender: Female
+    * Age: 18-65 (or wider if your services cater to a broader range)
+    * Languages: English  **(Assuming US/UK English speakers can understand Spanish)**
+
+* **Placements:** Instagram Feeds & Facebook Feeds (Focus on mobile users)
+
+**Campaign Objective:**
+
+* **Clicks to Website:**  Drive traffic to your landing page.
+
+**Campaign Budget:**
+
+* **$1 USD per day:** This is a great starting point for testing. You can gradually increase the budget based on performance.
+
+**Estimated Reach:**
+
+* **2.6k Views per Day:** This is a good estimate, but the actual reach will depend on various factors like ad relevance, targeting accuracy, and competition.
+
+## more ad talk
+
+so the views for international traffic in colombia vs the us are C.H.E.A.P.
+
+back of the napkin math and rick ross ai. lol.
+
+## Facebook ad campaign targeting Santa Marta, Colombia compared to the US. 
+
+Alright homie, let's break down the cost-effectiveness of your Facebook ad campaign targeting Santa Marta, Colombia compared to the US. 
+
+**US Benchmark:**
+
+* **Cost per Impression (CPM):** $1 USD / 100 impressions 
+* **This means:** For every $1 you spend, your ad gets shown to roughly 100 people in the US.
+
+**Santa Marta Advantage:**
+
+* **Estimated CPM:** Your budget of $1 USD per day might translate to around 2,600 impressions in Santa Marta. 
+* **The Math:** With a lower CPM, your ad gets **26 times more impressions** in Santa Marta compared to the US for the same budget. 
+
+**Translation for the Boss:**
+
+This situation is music to your ears! Reaching a larger audience in Santa Marta for the same budget allows you to:
+
+* **Increase brand awareness:** More people will see your "Guardian Angel" message.
+* **Drive more traffic to your landing page:**  This potentially leads to more consultations and clients.
+* **Stretch your marketing budget further:**  Get more bang for your buck in Santa Marta.
+
+**However, homie, there are a few things to consider:**
+
+* **Competition:**  While CPMs might be lower, competition for ad space in Santa Marta could still be present.
+
+* **Click-through Rate (CTR):**  Even with high impressions, the conversion rate (people clicking through to your landing page) might be lower compared to the US.
+
+* **Targeting Accuracy:** Ensure your targeting specifications are precise to reach your ideal English-speaking clientele. 
+
+**Boss Move Recommendation:**
+
+Run a test campaign with your $1 USD daily budget. Monitor the impressions, clicks, and cost-per-click (CPC) to see how effective your campaign is in Santa Marta.  
+
+**Remember:** It's all about testing and optimization.  
+
+Here's a quick formula to keep in mind:
+
+**Cost per Lead (CPL) = Total Ad Spend / Number of Leads Generated**
+
+By tracking your CPL, you can gauge how efficiently you're attracting potential clients in Santa Marta.
+
+**Dominate Santa Marta's social media scene, homie. With smart targeting and effective ad copy, you'll be the go-to Guardian Angel in no time!**
+
+## 4 Facebook Ads Targeting Santa Marta Queens (Emotion & PAS Approach)
+
+
+now let's generate ad copy
+
+me to gemini > so now i want you to brainstorm 4 different fb ads, appealing to emotion and using paso
+
+### Ad 1: Solo Sunset Blues
+
+Image: A woman standing alone on a picturesque Santa Marta beach at sunset, gazing longingly out to sea.  A hint of sadness or loneliness in her expression.
+
+P (Problem): Imagine the breathtaking sunsets of Santa Marta, but feeling a pang of worry holding you back from enjoying the moment.
+
+A (Agitate): Don't let fear stop you from experiencing the magic of Santa Marta.  Solo adventures can be empowering, but feeling safe is essential.
+
+S (Solution): Your Guardian Angel awaits. Schedule a free consultation and discover how I can bring you peace of mind while exploring Santa Marta's beauty.
+
+### Ad 2: Nightlife Worries
+
+Image: A split image. One side shows a group of women laughing and having fun at a vibrant Santa Marta club. The other side shows a worried woman walking alone on a dark street after leaving the club.
+
+P (Problem): Santa Marta's nightlife is electric, but concerns about safety can dim your shine.
+
+A (Agitate): Let loose and enjoy the fun without the constant guard up. Feeling unsafe can take away from the experience.
+
+S (Solution): Be the queen of the night with a guardian by your side. Schedule a free consultation and let's discuss how I can keep you safe while you paint the town red.
+
+### Ad 3: Confidence on the Streets
+
+Image: A confident woman walking through a bustling Santa Marta market, smiling and interacting with locals.
+
+P (Problem): Yearning to explore the vibrant streets of Santa Marta, but feeling a little apprehensive about navigating unfamiliar areas?
+
+A (Agitate): Embrace the energy of Santa Marta with the freedom to explore without limitations.
+
+S (Solution): Let your confidence shine. Schedule a free consultation and discover how I can be your trusted companion on your Santa Marta adventures.
+
+### Ad 4: Embrace the Unknown
+
+Image: A woman standing on a scenic viewpoint overlooking Santa Marta, arms outstretched, taking in the breathtaking view.
+
+P (Problem): Santa Marta's beauty beckons, but venturing into unfamiliar territory can feel daunting.
+
+A (Agitate): Don't let fear hold you back from discovering hidden gems. Feeling safe opens doors to unforgettable experiences.
+
+S (Solution): Explore with peace of mind. Schedule a free consultation and let me be your guardian angel as you unlock the secrets of Santa Marta.
+
+## stupid ads. haha. not even goig to read them yet.
+
+so we've got a bs landing page, i've already got the template. 
+
+it's maybe gringe... but there wasn't a travel one on this site and i had better things to do...
+
+<< link here to template>>
+
+so. landing page. ad copy. there is no digital pos. so i need some tweets and stuff. so that i can post to my website/page.
+
+but... not sure if i want to do article creation. not much left i think?
