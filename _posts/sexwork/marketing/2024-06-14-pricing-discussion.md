@@ -12,6 +12,10 @@ image: assets/images/7.jpg
 
 ---
 
+## editor's note.
+
+the rick ross bit started with me being funny in gemini. then i just left it and posted it b/c i didn't feel like editing all that. and i wanted it to be easy to read as possible.
+
 ## intention
 
 money isn't that important to me. what is... are experiences. and things that i wanted to experience.
@@ -305,8 +309,21 @@ so we've got a bs landing page, i've already got the template.
 
 it's maybe gringe... but there wasn't a travel one on this site and i had better things to do...
 
-<< link here to template>>
+<a href="https://themewagon.github.io/TeaHouse/" target="asdf">link to landing page template </a>
 
 so. landing page. ad copy. there is no digital pos. so i need some tweets and stuff. so that i can post to my website/page.
 
 but... not sure if i want to do article creation. not much left i think?
+
+## so i guess it's time to start working on the landing page. 
+
+so i'll get that site ready over on github.
+
+### template demo
+
+<a href="https://themewagon.github.io/TeaHouse/" target="asdf">link to landing page template </a>
+
+### live landing page
+
+<< link to live demo here>
+
